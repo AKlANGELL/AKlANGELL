@@ -22,7 +22,7 @@
 
 <p align="center">
   <b>ʟɪɴᴋꜱ ; </b><br>
-  <a href="https://xinz.atabook.org">ᴀᴛᴀʙᴏᴏᴋ</a> -
+  <a href="https://fluxarataa.atabook.org">ᴀᴛᴀʙᴏᴏᴋ</a> -
   <a href="https://en.pronouns.page/@xinz">ᴘʀɴꜱ.ᴘɢ </a> -
   <a href="https://rentry.co/sincerelyxin">ʀᴇɴᴛʀʏ</a> -
   <a href="https://sk8rslight.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a>
