@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img align="center" width="550" alt="image" src="https://github.com/user-attachments/assets/b999dd53-7204-4ea6-89fc-e50bd404aabb" />
+<img align="center" width="550" alt="image"src="https://github.com/user-attachments/assets/728b4659-e64c-4820-bd9d-7ebb7eb0b7e4" />
 <p align="center">
 -----------------------‎-----˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------‎---------‎
 </p>
