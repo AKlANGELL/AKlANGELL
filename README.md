@@ -47,11 +47,11 @@
 <p align ="center">
  ${{\color{#dd3472} wip }}$
 <p align ="center">
-  link
+ ${{\color{#f9f0b1} link }}$
  <p align ="center">
-  link
+ ${{\color{#f9f0b1} link }}$
 <p align ="center">
-  link   
+ ${{\color{#f9f0b1} link }}$
 <p align ="center">
   --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------
 </p>
