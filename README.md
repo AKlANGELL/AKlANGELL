@@ -7,7 +7,7 @@
 <p align="left">
 
 <p align ="center">
-  ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------
+ ${{\color{#dd3472}  -------ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗------- }}$
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -16,7 +16,15 @@
 </p>
 
 <p align ="center">  
- ${{\color{#f9f0b1} hi }}$
+  $${\color{black}white{}}$$
+  ${\mathfrak{\color{#f9f0b1} {c+h} }}$
+  ${\mathfrak{\color{#fac194} {freely!} }}$
+  ${\mathfrak{\color{#f68f8d} {unless} }}$
+  ${\mathfrak{\color{#fc4978} {on} }}$
+  ${\mathfrak{\color{#dd3472} {dni} }}$
+  ${\mathfrak{\color{#f68f8d} {i} }}$  
+  ${\mathfrak{\color{#fac194} {cuddles<3} }}$
+  ${\mathfrak{\color{#f9f0b1} {(˵˃ ᗜ ˂˵)} }}$
 <p align ="center">
  ${{\color{#fac194} this }}$
 <p align ="center">
@@ -26,7 +34,7 @@
 <p align ="center">
  ${{\color{#dd3472} wip }}$
 <p align ="center">
-  ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------
+ ${{\color{#dd3472}  -------ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗------- }}$
 </p>
   
 <p align="right">
@@ -35,7 +43,7 @@
 
 
 <p align ="center">
-  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------
+ ${{\color{#dd3472}  -------ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗------- }}$
 <p align ="center">  
  ${{\color{#f9f0b1} hi }}$
 <p align ="center">
@@ -53,7 +61,7 @@
 <p align ="center">
  ${{\color{#f9f0b1} link }}$
 <p align ="center">
-  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------
+ ${{\color{#dd3472}  -------ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗------- }}$
 </p>
 
 <p align="center">
