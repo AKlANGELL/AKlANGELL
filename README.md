@@ -3,11 +3,11 @@
 <p align="center">
 
 <p align="left">
-<img align="left" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9eaa39c4-cdd6-4888-9c0e-ac333b6b4f2c" />
+<img align="left" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7a12c577-7fd1-4610-9fc9-68d5cea0b4a6" />
 <p align="left">
 
 <p align ="center">
-  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎
+  ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------
 <p align ="center">
   hi wip wait guys
 <p align ="center">  
@@ -25,7 +25,7 @@
 <p align ="center">
   text   
 <p align ="center">
-  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------
+  ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗------------------
 </p>
   
 <p align="right">
@@ -34,7 +34,7 @@
 
 
 <p align ="center">
-  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎
+  ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------
 <p align ="center">
   text
 <p align ="center">  
