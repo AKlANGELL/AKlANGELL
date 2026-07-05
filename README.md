@@ -8,22 +8,23 @@
 
 <p align ="center">
   ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------
-<p align ="center">
-  hi wip wait guys
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xh24cqngucm4mxcr2ztzzh7lqy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
+
 <p align ="center">  
-  text
+ ${{\color{#f9f0b1} hi }}$
 <p align ="center">
-  text
+ ${{\color{#fac194} this }}$
 <p align ="center">
-  text
+ ${{\color{#f68f8d} is }}$
 <p align ="center">
-  text
+ ${{\color{#fc4978} a }}$
 <p align ="center">
-  text
- <p align ="center">
-  text
-<p align ="center">
-  text   
+ ${{\color{#dd3472} wip }}$
 <p align ="center">
   ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗------------------
 </p>
@@ -35,22 +36,22 @@
 
 <p align ="center">
   ------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------
-<p align ="center">
-  text
 <p align ="center">  
-  text
+ ${{\color{#f9f0b1} hi }}$
 <p align ="center">
-  text
+ ${{\color{#fac194} this }}$
 <p align ="center">
-  text
+ ${{\color{#f68f8d} is }}$
 <p align ="center">
-  text
+ ${{\color{#fc4978} a }}$
 <p align ="center">
-  text
+ ${{\color{#dd3472} wip }}$
+<p align ="center">
+  link
  <p align ="center">
-  text
+  link
 <p align ="center">
-  text   
+  link   
 <p align ="center">
   --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------
 </p>
