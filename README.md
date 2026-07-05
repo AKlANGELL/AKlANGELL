@@ -1,35 +1,64 @@
 <p align="center">
-----------♡----------
+<img width="1075" height="357" alt="image" src="https://github.com/user-attachments/assets/1a56c5ce-fe0d-431b-b96a-5e0e3f8855e5" />
+<p align="center">
+
+<p align="left">
+<img align="left" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9eaa39c4-cdd6-4888-9c0e-ac333b6b4f2c" />
+<p align="left">
+
+<p align ="center">
+  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎
+<p align ="center">
+  hi wip wait guys
+<p align ="center">  
+  text
+<p align ="center">
+  text
+<p align ="center">
+  text
+<p align ="center">
+  text
+<p align ="center">
+  text
+ <p align ="center">
+  text
+<p align ="center">
+  text   
+<p align ="center">
+  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------
+</p>
+  
+<p align="right">
+<img align ="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2f64f8ca-7c20-48cd-8965-62e72a832302" />
+<p align="right">
+
+
+<p align ="center">
+  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎
+<p align ="center">
+  text
+<p align ="center">  
+  text
+<p align ="center">
+  text
+<p align ="center">
+  text
+<p align ="center">
+  text
+<p align ="center">
+  text
+ <p align ="center">
+  text
+<p align ="center">
+  text   
+<p align ="center">
+  --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xh24cqngucm4mxcr2ztzzh7lqy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
-
+<img width="1075" height="357" alt="image" src="https://github.com/user-attachments/assets/5edf132e-2a53-4df4-9592-5cedc390c7e8" />
 <p align="center">
------------------------‎-----˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎--------‎
-</p>
-
-<p align="center">
-<img align="center" width="550" alt="image"src="https://github.com/user-attachments/assets/728b4659-e64c-4820-bd9d-7ebb7eb0b7e4" />
-<p align="center">
------------------------‎-----˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗-------------------‎---------‎
-</p>
-
-<p align="center">
-  <b>ʟɪɴᴋꜱ ; </b><br>
-  <a href="https://fluxarataa.atabook.org">ᴀᴛᴀʙᴏᴏᴋ</a> -
-  <a href="https://en.pronouns.page/@xinz">ᴘʀɴꜱ.ᴘɢ </a> -
-  <a href="https://rentry.co/encrypts">ʀᴇɴᴛʀʏ</a> -
-  <a href="https://sk8rslight.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a>
-  <br><br>
-
-<p align="center">
-----------♡----------
-</p>
-
 <!--
 **AKlANGELL/AKlANGELL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+
