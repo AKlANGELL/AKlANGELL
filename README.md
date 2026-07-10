@@ -30,13 +30,13 @@
 
 <p align ="center">  
 <p align ="center">
- ${{\color{#fac194} ૮꒰◞ ˕ ◟ ྀི꒱ა }}$ 
+ ${{\color{#fac194} ૮꒰}}$ 
    <a href="https://rentry.co/pixiliated">ʀᴇɴᴛʀʏ</a>
  ${{\color{#f9f0b1} .☽༊˚ }}$
    <a href="https://xinz.atabook.org">ᴀᴛᴀʙᴏᴏᴋ</a>
  ${{\color{#f9f0b1} .☽༊˚ }}$
   <a href="https://en.pronouns.page/@xinz">ᴘʀɴꜱ.ᴘɢ </a>
-  ${{\color{#fac194} ૮꒰◞ ˕ ◟ ྀི꒱ა }}$ 
+  ${{\color{#fac194}꒱ა }}$ 
 </p>
 <p align ="center">
  ${{\color{#dd3472}  --------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˗------ }}$
