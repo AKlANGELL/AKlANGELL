@@ -19,7 +19,7 @@
 <p align ="center">
   $\color{#f9f0b1}\normalsize{\texttt{i}}$ $\color{#fac194}\normalsize{\texttt{dont}}$ $\color{#f68f8d}\normalsize{\texttt{do}}$ $\color{#fc4978}\normalsize{\texttt{well}}$ $\color{#d12c69}\normalsize{\texttt{with}}$ $\color{#ba0044}\normalsize{\texttt{first}}$ $\color{#d12c69}\normalsize{\texttt{interactions}}$ $\color{#fc4978}\normalsize{\texttt{please}}$ $\color{#f68f8d}\normalsize{\texttt{iwc}}$ ${{\color{#fac194} {(╥﹏╥)} }}$ $\color{#f9f0b1}\normalsize{\texttt{✶⋆.˚}}$
 <p align ="center">
- ${{\color{#fac194} {                   𓈒   ݂ you're }}}$ ${{\color{#f68f8d}\normalsize{\texttt {     out     }}}}$ ${{\color{#f9f0b1}\normalsize{\texttt {of    }}}}$ ${{\color{#fc4978}\normalsize{\texttt{touch  ۫     ݂   ⑅} }}}$ 
+ ${{\color{#fac194}\normalsize{\texttt {                   𓈒   ݂ you're }}}}$ ${{\color{#f68f8d}\normalsize{\texttt {     out     }}}}$ ${{\color{#f9f0b1}\normalsize{\texttt {of    }}}}$ ${{\color{#fc4978}\normalsize{\texttt{touch  ۫     ݂   ⑅} }}}$ 
 <p align ="center">
  ${{\color{#f9f0b1}\normalsize{\texttt {               ݂  i'm}}}}$ ${{\color{#fac194}\normalsize{\texttt {      ॱֺּׅ out   ݂  𓈒   } }}}$ ${{\color{#f68f8d}\normalsize{\texttt {of  ݂ ۫  }}}}$ ${{\color{#fc4978}\normalsize{\texttt{time  ݂ ۫ `♡`   }}}}$
 <p align ="center">
