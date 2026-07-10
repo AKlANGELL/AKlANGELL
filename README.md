@@ -35,7 +35,7 @@
  ${{\color{#f9f0b1} .☽༊˚ }}$
    <a href="https://fluxarataa.atabook.org">ᴀᴛᴀʙᴏᴏᴋ</a>
  ${{\color{#f9f0b1} .☽༊˚ }}$
-  <a href="https://sk8rslight.straw.page">🇸🇹🇷🇦🇼🇵🇦🇬🇪</a>
+  <a href="https://sk8rslight.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a>
   ${{\color{#fac194}꒱ა }}$ 
 </p>
 <p align ="center">
