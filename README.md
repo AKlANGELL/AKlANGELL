@@ -38,6 +38,13 @@
   <a href="https://sk8rslight.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a>
   ${{\color{#fac194}꒱ა }}$ 
 </p>
+
+<p align ="center">  
+ ${{\color{#fac194} ૮꒰}}$ 
+   <a href="https://github.com/pt-walk-of-fame/pt-walk-of-fame">ty pt-walk-of-fame!<3</a>
+   ${{\color{#fac194}꒱ა }}$ 
+</p>
+
 <p align ="center">
  ${{\color{#dd3472}  --------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚˗------ }}$
 </p>
