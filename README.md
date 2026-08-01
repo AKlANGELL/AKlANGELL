@@ -41,7 +41,9 @@
 
 <p align ="center">  
  ${{\color{#fac194} ૮꒰}}$ 
-   <a href="https://github.com/pt-walk-of-fame">ty pt-walk-of-fame!<3</a>
+   <a href="https://github.com/pt-walk-of-fame">ty pt-walk-of-fame! </a>
+     ${{\color{#f9f0b1} .☽༊˚ }}$
+    <a href="https://github.com/pt-fashion"> ty pt-fashion!</a>
    ${{\color{#fac194}꒱ა }}$ 
 </p>
 
